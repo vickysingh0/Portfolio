@@ -69,13 +69,12 @@ nav ul li a:hover{
     margin-bottom: 30px;
 }
 .img-box{
-    width: 45%;
-    height: 80%;
+    width: 845px;
+    height: 654px ;
     position: absolute;
     bottom: 0;
     right: 100px;
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
+    
 }
 .img-box img{
     height: 100%;
